@@ -1,4 +1,4 @@
-<h1 style="text-align:center"> <span style="color:pink;">Olá!</span> Meu nome é  <span style="color:pink;">Beatriz</span> (❁´◡`❁)</h1>
+<h1 align="center">Olá! Meu nome é Beatriz (❁´◡`❁)</h1>
 
 ## Sobre mim
 
