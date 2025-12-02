@@ -2,10 +2,10 @@
 
 ## Sobre mim
 
-🕹️ Desenvolvedora **indie & fullstack** em construção.
-🎓 Estudando **Ciência da Computação** na CESAR School.
-🌱 Aprendendo mais sobre **Unity/C#** para criar experiências interativas e pequenos mundos.
-💼 Aberta a oportunidades de **estágio** e projetos colaborativos.
+🕹️ Desenvolvedora de **jogos indie & fullstack** em construção.  
+🎓 Estudando **Ciência da Computação** na CESAR School.  
+🌱 Aprendendo mais sobre **Unity/C#** para criar experiências interativas e pequenos mundos.  
+💼 Aberta a oportunidades de **estágio** e projetos colaborativos.  
 
 ---
 
