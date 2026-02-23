@@ -13,7 +13,7 @@
 
 ### Desenvolvimento de Jogos 🎮
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white) ![Bitsy](https://img.shields.io/badge/Bitsy-6767b2?style=for-the-badge&logo=bitsy&logoColor=white)
 
 <!-- Unity, Scratch, Bitsy -->
 
