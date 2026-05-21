@@ -9,8 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC0CB&center=true&vCenter=true&width=435&lines=Game+Developer;Fullstack+Developer;Computer+Science+Student" />
 </p>
 
----
-
 ## Sobre mim
 
 🕹️ Desenvolvedora de **jogos indie & fullstack** em construção.  
