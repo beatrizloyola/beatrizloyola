@@ -26,6 +26,7 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 ![Bitsy](https://img.shields.io/badge/Bitsy-6767b2?style=for-the-badge&logoColor=white)
+![RayLib](https://img.shields.io/badge/RAYLIB-000000?style=for-the-badge&logo=raylib&logoColor=white)
 
 ### Linguagens de Programação ⌨️
 
